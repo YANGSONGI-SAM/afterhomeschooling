@@ -1,0 +1,39 @@
+{
+  "uclassXelf": {
+    "version": "1.0.0",
+    "packagedVersion": "1.0.0",
+    "packagedDt": "2025-02-27T07:27:54.663Z",
+    "convertedDt": "2025-02-27T07:27:54.721Z"
+  },
+  "project": {
+    "title": "[방과후홈스쿨링]어린이날방탈출",
+    "content": "",
+    "createdDt": "2024-04-21T08:12:18.000Z",
+    "updatedDt": "2024-06-11T04:43:03.000Z",
+    "modifiedDt": "2024-04-21T08:12:18.000Z",
+    "tags": [],
+    "category": "13557",
+    "categoryTitle": "◆방과후홈스쿨링",
+    "userEmail": "miss_emotion@naver.com",
+    "userName": "정원상",
+    "userNickname": "양송이샘",
+    "userNo": 213,
+    "cclAuthor": "양송이샘 (miss_emotion@naver.com)",
+    "cclType": "CC_BY_ND",
+    "projectId": "0pWGLVa5XUH",
+    "orgNo": 24,
+    "viewCount": 0,
+    "orgUrlPath": "missemotion",
+    "volume": 7340349
+  },
+  "resources": {
+    "fonts": [
+      "Batang_Bold"
+    ],
+    "licenses": {
+      "image": [],
+      "svg": [],
+      "font": []
+    }
+  }
+}
