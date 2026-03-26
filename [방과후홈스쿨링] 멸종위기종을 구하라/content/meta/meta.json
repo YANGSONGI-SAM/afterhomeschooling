@@ -1,0 +1,40 @@
+{
+  "uclassXelf": {
+    "version": "1.0.0",
+    "packagedVersion": "1.0.0",
+    "packagedDt": "2025-02-27T07:28:14.190Z",
+    "convertedDt": "2025-02-27T07:28:14.348Z"
+  },
+  "project": {
+    "title": "[방과후홈스쿨링]멸종위기종을 구하라!",
+    "content": "",
+    "createdDt": "2024-06-11T07:57:06.000Z",
+    "updatedDt": "2024-06-11T08:04:09.000Z",
+    "modifiedDt": "2024-06-11T07:57:06.000Z",
+    "tags": [],
+    "category": "13557",
+    "categoryTitle": "◆방과후홈스쿨링",
+    "userEmail": "miss_emotion@naver.com",
+    "userName": "정원상",
+    "userNickname": "양송이샘",
+    "userNo": 213,
+    "cclAuthor": "양송이샘 (miss_emotion@naver.com)",
+    "cclType": "CC_BY_ND",
+    "projectId": "RLXosFjsMiX",
+    "orgNo": 24,
+    "viewCount": 0,
+    "orgUrlPath": "missemotion",
+    "volume": 27546155
+  },
+  "resources": {
+    "fonts": [
+      "Batang_Bold",
+      "BMJUA"
+    ],
+    "licenses": {
+      "image": [],
+      "svg": [],
+      "font": []
+    }
+  }
+}

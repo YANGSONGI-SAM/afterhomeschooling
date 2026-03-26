@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Example</title>
+</head>
+<body>
+  <div id="viewer"></div>
+  <script src="viewer/viewer.js"></script>
+  <script>
+    Xelf.createViewer({
+      el: '#viewer',
+      rootPath: 'content',
+      width: 1280,
+      height: 720
+    })
+  </script>
+</body>
+</html>
