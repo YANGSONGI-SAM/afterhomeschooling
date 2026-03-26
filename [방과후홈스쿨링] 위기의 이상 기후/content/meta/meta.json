@@ -1,0 +1,39 @@
+{
+  "uclassXelf": {
+    "version": "1.0.0",
+    "packagedVersion": "1.0.0",
+    "packagedDt": "2025-02-27T07:27:08.264Z",
+    "convertedDt": "2025-02-27T07:27:08.363Z"
+  },
+  "project": {
+    "title": "[방과후홈스쿨링] 위기의 이상 기후",
+    "content": "",
+    "createdDt": "2024-04-21T08:12:05.000Z",
+    "updatedDt": "2024-06-11T08:04:15.000Z",
+    "modifiedDt": "2024-04-21T08:12:05.000Z",
+    "tags": [],
+    "category": "13557",
+    "categoryTitle": "◆방과후홈스쿨링",
+    "userEmail": "miss_emotion@naver.com",
+    "userName": "정원상",
+    "userNickname": "양송이샘",
+    "userNo": 213,
+    "cclAuthor": "양송이샘 (miss_emotion@naver.com)",
+    "cclType": "CC_BY_ND",
+    "projectId": "ubUEFAVND9I",
+    "orgNo": 24,
+    "viewCount": 0,
+    "orgUrlPath": "missemotion",
+    "volume": 9736780
+  },
+  "resources": {
+    "fonts": [
+      "Batang_Bold"
+    ],
+    "licenses": {
+      "image": [],
+      "svg": [],
+      "font": []
+    }
+  }
+}
